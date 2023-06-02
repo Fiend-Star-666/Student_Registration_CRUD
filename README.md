@@ -1,5 +1,5 @@
 # Student_Registration_CRUD
-A simple jsp based crud applicaiton using Paginaiton.
+A simple jsp based crud applicaiton using Pagination.
 
 Features
 Add new students with their details such as name, date of birth, Aadhaar card number, city, stream, and state.
